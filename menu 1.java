@@ -10,6 +10,7 @@ class Fact{
 		System.out.println("Factorial Is "+f);
 	}
 }
+//class reverse
 class reverse{
 	void rev(int n){
 		int r=0,d;
